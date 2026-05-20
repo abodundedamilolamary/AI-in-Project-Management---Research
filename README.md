@@ -18,3 +18,9 @@ Improved knowledge sharing across the team and reduced onboarding ramp-up time f
 
 ## Tools Used
 Jira | Trello | Google Workspace | Microsoft Office
+
+## Challenges & Solutions
+Challenge: Team members across multiple time zones were unresponsive, threatening project deadlines
+Solution: Conducted 1-on-1 check-ins with each team member, identified timezone conflicts as the root cause, and restructured collaboration by scheduling meetings at each person's convenient time
+Result: Successfully submitted all deliverables ahead of deadline
+
