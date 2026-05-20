@@ -24,3 +24,13 @@ Challenge: Team members across multiple time zones were unresponsive, threatenin
 Solution: Conducted 1-on-1 check-ins with each team member, identified timezone conflicts as the root cause, and restructured collaboration by scheduling meetings at each person's convenient time
 Result: Successfully submitted all deliverables ahead of deadline
 
+## Key Findings
+• AI tools can significantly reduce administrative burden for Project Managers
+• Automation of routine tasks (scheduling, reporting, updates) frees PMs to focus on strategy and stakeholder management
+• Cross-functional teams benefit most from AI-assisted communication and collaboration tools
+• Human oversight remains essential in AI-assisted project management to ensure accuracy and accountability
+
+## Connect With Me
+📧 Email: abodundedamilola34@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/damilola-abodunde-3469b6217
+🌍 Location: Nigeria
